@@ -105,7 +105,7 @@ This project is related to mine because the owners of the centre explain that it
 
 ![Image](IMG_1859.JPG)
 
-## Process documentation
+## Process documentation ##
 
 To begin my project, I first had to find some inspiration on the type of shape and type of guitar I wanted to recreate in terms of appearance. This was more so the creative aesthetic side instead of the technical side. I chose to go with a fender electric stratocaster guitar. Wasn't anything particular about it, it's just the shape was more appealing to me. However, I didn't achieve the full look as I lacked in materials to decorate with as my top priority was having it function. 
 
@@ -113,20 +113,30 @@ To begin my project, I first had to find some inspiration on the type of shape a
 
 Below are the materials I used which I got from referring from the link that was provided in the assesment template. Most of which were household items. Note that some things in the image are missing but were later collected (such as aluminuium foil).
 
-![Image](IMG_9373 3.jpg)
+![Image](IMG_9373.JPG)
 
 A problem I was stuck with for a bit was getting my hands on crocodile jumper heads. This came due to my lack of knowledge and experience. I wasn't aware the Inventor's kit didn't provide them, so I had to take it upon myself to go out and find them. These were sourced from Bunnings Warehouse. Due to these being very different from the ones used in class and my lack of knowledge, I had no idea how to connect the heads with the wires provided with the kit. I sourced out youtube videos, in hopes that it would help... they did not as the wires were different. I later played around with the heads and wires and soon found out how they worked.
 
 I first made an outline of my guitar on a flattened out piece of cardboard (which was originally boxed). The recommended length was about 40-80cm. Mine was roughly 82.5cm, serving a good size. 
 
+![Image](IMG_1855.JPG)
+
 Complications came with cutting out the shape, which found itself to be very time consuming. I found this due to the tools I was using. The scissors used weren't best suited for cardboard, which left small pains in my hand after a couple of cuts. The stanely knife wasn't sharp enough, therefore a couple of strides were needed to cut through.
 
 I sensed the use of using cardboard that was originally boxed left it very flimsy, however this was a quick fix, as extra layers or cardboard and tape were used to create a sturdier material. 
 
+## CODES ##
 
-![Image](missingimage.png)
+### LIGHT SENSOR ###
+![Image](Screen Shot 1.png)
 
-*Include screenshots of the code you have used.*
+### BEAT CONTROL ###
+![Image](Screen Shot 2.png)
+
+### ON AND OFF SWITCH CODE ###
+![Image](Screen Shot 3.png)
+
+
 
 
 ### Project title ###
@@ -138,15 +148,11 @@ This project is a electronic musical instrument in hopes to bring a close real l
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](IMG_6314.JPG)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](IMG_0303.JPG)
 
 ### Reflection ###
 
