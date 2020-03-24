@@ -113,7 +113,7 @@ To begin my project, I first had to find some inspiration on the type of shape a
 
 Below are the materials I used which I got from referring from the link that was provided in the assesment template. Most of which were household items. Note that some things in the image are missing but were later collected (such as aluminuium foil).
 
-![Image](IMG_9373.jpg)
+![Image](IMG_9373 3.jpg)
 
 A problem I was stuck with for a bit was getting my hands on crocodile jumper heads. This came due to my lack of knowledge and experience. I wasn't aware the Inventor's kit didn't provide them, so I had to take it upon myself to go out and find them. These were sourced from Bunnings Warehouse. Due to these being very different from the ones used in class and my lack of knowledge, I had no idea how to connect the heads with the wires provided with the kit. I sourced out youtube videos, in hopes that it would help... they did not as the wires were different. I later played around with the heads and wires and soon found out how they worked.
 
