@@ -11,13 +11,61 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+(Fun Theory Piano)
 
-(Insert URL to project)
+(https://adage.com/creativity/work/fun-theory-piano-staircase/17522)
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it includes a muscial aspect that others can interact with and enjoy.
+
+
+### Related project 2 ###
+(QUT Cube)
+
+(URL)
+
+![Image](missingimage.png)
+
+This project is related to mine because ...
+
+### Related project 3 ###
+(Swatchmate Cube)
+
+(https://adage.com/creativity/work/fun-theory-piano-staircase/17522)
+
+![Image](missingimage.png)
+
+This project is related to mine because t includes a muscial aspect that others can interact with and enjoy.
+
+### Related project 4 ###
+(Tashia Tucker- Interactive floor)
+
+(https://adage.com/creativity/work/fun-theory-piano-staircase/17522)
+
+![Image](missingimage.png)
+
+This project is related to mine because t includes a muscial aspect that others can interact with and enjoy.
+
+
+### Related project 5 ###
+(Atheletic Forest)
+
+(https://adage.com/creativity/work/fun-theory-piano-staircase/17522)
+
+![Image](missingimage.png)
+
+This project is related to mine because t includes a muscial aspect that others can interact with and enjoy.
+
+
+### Related project 6 ###
+(Westfield Garden City interactive game wall)
+
+(https://adage.com/creativity/work/fun-theory-piano-staircase/17522)
+
+![Image](missingimage.png)
+
+This project is related to mine because t includes a muscial aspect that others can interact with and enjoy.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
