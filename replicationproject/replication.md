@@ -5,10 +5,9 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Guitar)
+Guitar
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 (Fun Theory Piano)
@@ -22,7 +21,7 @@ This project is related to mine because it includes a muscial aspect that others
 ### Related project 2 ###
 (QUT Cube)
 
-(URL)
+(https://www.qut.edu.au/news?id=157128)
 ![Image](QUTcub.jpg)
 
 This project is related to mine because it brings something realistic to the public. The cube offers and provides an experience to witness things such as the Great Barrier Reef as if people were really there. My project provides someone who can't play guitar, such as myself, a chance of experincing something even remotely closer to the real thing. 
@@ -62,7 +61,7 @@ This project is related to mine because
 
 ![Image](gardencitygame.jpg)
 
-This project is related to mine because
+This project is related to mine because the owners of the centre explain that it is a revitalise that customers willbe excited to see and be apart of. I see that in my project as well. While it still appears to be a rough prototype replication, it concept of it does "spruce" things up from a ordinary guitar as this is more of an electronic instrument. Even better, it's home made. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -103,17 +102,14 @@ This project is related to mine because
 ## Interaction flowchart ##
 
 
-![Image](missingimage.png)
+
+![Image](IMG_1859.JPG)
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
 To begin my project, I first had to find some inspiration on the type of shape and type of guitar I wanted to recreate in terms of appearance. This was more so the creative aesthetic side instead of the technical side. I chose to go with a fender electric stratocaster guitar. Wasn't anything particular about it, it's just the shape was more appealing to me. However, I didn't achieve the full look as I lacked in materials to decorate with as my top priority was having it function. 
+
+![Image](Stratocaster.jpeg)
 
 Below are the materials I used which I got from referring from the link that was provided in the assesment template. Most of which were household items. Note that some things in the image are missing but were later collected (such as aluminuium foil).
 
@@ -158,9 +154,10 @@ However, though the replication was successful, there are still some aspects tha
 
 One of my coding problems was the "on" and "off" switch, which didn't seem to work. I followed the steps provided, however as I am new to all of this, I may have coded incorrectly or placed wires in the wrong sections. 
 
-Looking back at this whole process, I would recommended to myself to explore more sources to see if there were other alternatives or approaches. Now realising I'm not as limited to what I thought I was. 
+Looking back at this whole process, I would recommended to myself to explore more sources to see if there were other alternatives or approaches for more inspiration. Now realising I'm not as limited to what I thought I was. 
+
+Looking back at it now I wish there was a more pleasing aesthetic look to it. Keeping in mind for next time that the look of it should be considered and thought out as much as the technical side. 
 
 
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
