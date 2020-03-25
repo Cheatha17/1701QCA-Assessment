@@ -33,7 +33,7 @@ This project is related to mine because it brings something realistic to the pub
 
 ![Image](swatchcub-color-matcher-designboomth.jpg)
 
-This project is related to mine because 
+This project is 
 
 ### Related project 4 ###
 (Tashia Tucker- Interactive floor)
@@ -41,13 +41,13 @@ This project is related to mine because
 (https://www.homecrux.com/drexels-interactive-projects-that-improves-upon-our-daily-environment/7713/)
 
 ![Image](interactive floor.jpg)
-This project is related to mine because 
+This project is related to mine in a very minor way, Tucker's project was described to be 'The future od adaptive living spaces' mine is just an ordianry home made guitar. However both of projects have sensors implemented or coded to detect human interaction and therefore respond to it.
 
 
 ### Related project 5 ###
-(Atheletic Forest)
+(The harp of the city)
 
-(https://borderless.teamlab.art/concepts/athletics-forest)
+(http://joshuawilkinsonsd.com/the-harp-of-the-city)
 
 ![Image](athleticforrest.jpeg)
 
@@ -70,33 +70,59 @@ This project is related to mine because the owners of the centre explain that it
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.* 
+
+That there wasn't alot of things to consider when designing things. I guess I would say, I thought it was more centred around the look of it, how it worked, if it was something people would like. And thought Norman does discuss this in the reading, I thought very vaguely of it, but was shown a whole different side to the thought process. 
+
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+Before reading this I had known that planning a design was a key part. However, this reading goes into further depth about how others can perceive things different. After reading this, it's come alot more clearer that there are many many things to conisder like whether signifers will be interpreted the wrong way, or how one control can effect a wide range of things, therefore it's important to carefully plan and consider and quite possibly have others review your ideas. 
+
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.* 
+Is the psychological side more important than other aspects of design?
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+To take into account some of the psychological concepts. Feedback would have to be a main one in my project. Alot of times I had to play around and experiment with movement. Since my project is responsive to movement and changes the way it sounds accordingly to where in the air its placed or how firmly I press on the microbit. There were times where I was making constant adjustments in placing sticky tape, otherwise if in the wrong place, audio would fall out or be uneven. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+It had never occurred to me that microinteractions were something to consider to be in design and technology. 
+
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.* 
+
+There is more than meets the eye. In saying that, again, microinterations was something i'd never expect to hear in a world of design, but more so the biological side of things like human anatomy or the connections between living organisms. But now having read that it has only woken me up to realise there is a lot of things that go into making one product into what it is. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+ Are the sensors/detectors that we've worked with in class connected to microinteractions, since one of the things they are good at is turning features on or off? Just like a feature I planned to have in my project?
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+Stated above, I feel once I understand how or if there is a connection between sensors and microinteractions I would then get closer to implementing more things to my guitar.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+That you had to be somewhat of an expert in the field of design if you were going to make it fair or even have any chance of success. 
+
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*  
+
+I would say reading this, I'd come out of it a bit more relieved, confident and reassured. As this whole time I felt a sense of intimidation in the world of design and that it's a bad thing if you're new and learning slowly. Sullvian quickly debunks this at the very start. This was a main part that stuck to me. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I understand that the world of design is alwas changing and there are things you lean constantly as you go. But at what point or how much time is needed to become familiar with the concepts surrounding design?
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+That the identified bugs in my project are something to expect, especially when I'm learning. However, with constant work and experiementing, an "ON" and "OFF" switch could hopefully be implemented. 
+And also make more room and time for beta testing as a way to collect feedback on what works and what doesn't. 
+
+
 
 
 ## Interaction flowchart ##
