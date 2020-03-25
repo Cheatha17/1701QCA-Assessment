@@ -26,16 +26,8 @@ This project is related to mine because it includes a muscial aspect that others
 
 This project is related to mine because it brings something realistic to the public. The cube offers and provides an experience to witness things such as the Great Barrier Reef as if people were really there. My project provides someone who can't play guitar, such as myself, a chance of experincing something even remotely closer to the real thing. 
 
+
 ### Related project 3 ###
-(Swatchmate Cube)
-
-(https://newatlas.com/swatchmate-color-capturing-cube/30355/)
-
-![Image](swatchcub-color-matcher-designboomth.jpg)
-
-This project is 
-
-### Related project 4 ###
 (Tashia Tucker- Interactive floor)
 
 (https://www.homecrux.com/drexels-interactive-projects-that-improves-upon-our-daily-environment/7713/)
@@ -44,17 +36,17 @@ This project is
 This project is related to mine in a very minor way, Tucker's project was described to be 'The future od adaptive living spaces' mine is just an ordianry home made guitar. However both of projects have sensors implemented or coded to detect human interaction and therefore respond to it.
 
 
-### Related project 5 ###
+### Related project 4 ###
 (The harp of the city)
 
 (http://joshuawilkinsonsd.com/the-harp-of-the-city)
 
-![Image](athleticforrest.jpeg)
+![Image](joshuawilinson.jpg)
 
-This project is related to mine because 
+This project is related to mine because we both have projects based around musical instruments that can be accessible to anyone, not jsut those who know how to play. There is a code behind both our projects that will project sound when interaction occurs.
 
 
-### Related project 6 ###
+### Related project 5 ###
 (Westfield Garden City interactive game wall)
 
 (https://adage.com/creativity/work/fun-theory-piano-staircase/17522)
