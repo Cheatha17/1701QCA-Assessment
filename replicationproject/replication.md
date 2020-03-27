@@ -192,6 +192,10 @@ Looking back at this whole process, I would recommended to myself to explore mor
 
 Looking back at it now I wish there was a more pleasing aesthetic look to it. Keeping in mind for next time that the look of it should be considered and thought out as much as the technical side. 
 
+![Image](IMG_3470.JPG)
+(Here, I initially wanted to create me on melody, but instead opted for a plain less "playful" tone.) 
+"H" would mean the key was hight, "M" was for middle key and "L" was for low.
 
+![Image](IMG_7480.JPG)
 
-
+![Image](IMG_7591.JPG)
