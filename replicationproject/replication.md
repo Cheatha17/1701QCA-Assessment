@@ -15,7 +15,7 @@ Guitar
 (https://adage.com/creativity/work/fun-theory-piano-staircase/17522)
 ![Image](piano.jpg)
 
-This project is related to mine because it includes a muscial aspect that others can interact with and enjoy. I find it an intersting project because it encourages people to take the more active route on their travels.
+This project is related to mine because it includes a muscial aspect that others can interact with and enjoy. I find it an interesting project because it encourages people to take the more active route on their travels.
 
 
 ### Related project 2 ###
@@ -24,7 +24,7 @@ This project is related to mine because it includes a muscial aspect that others
 (https://www.qut.edu.au/news?id=157128)
 ![Image](QUTcub.jpg)
 
-This project is related to mine because it brings something realistic to the public. The cube offers and provides an experience to witness things such as the Great Barrier Reef as if people were really there. My project provides someone who can't play guitar, such as myself, a chance of experincing something even remotely closer to the real thing. 
+This project is related to mine because it brings something realistic to the public. The cube offers and provides an experience to witness things such as the Great Barrier Reef as if people were really there. My project provides someone who can't play guitar, such as myself, a chance of experiencing something even remotely closer to the real thing. 
 
 
 ### Related project 3 ###
@@ -34,7 +34,7 @@ This project is related to mine because it brings something realistic to the pub
 
 ![Image](interactive floor.jpg)
 
-This project is related to mine in a very minor way, Tucker's project was described to be 'The future od adaptive living spaces' mine is just an ordianry home made guitar. However both of projects have sensors implemented or coded to detect human interaction and therefore respond to it.
+This project is related to mine in a very minor way, Tucker's project was described to be 'The future od adaptive living spaces' mine is just an ordinary home made guitar. However both of our projects have sensors implemented or coded to detect human interaction and therefore respond to it.
 
 
 ### Related project 4 ###
@@ -44,7 +44,7 @@ This project is related to mine in a very minor way, Tucker's project was descri
 
 ![Image](joshuawilinson.jpg)
 
-This project is related to mine because we both have projects based around musical instruments that can be accessible to anyone, not jsut those who know how to play. There is a code behind both our projects that will project sound when interaction occurs.
+This project is related to mine because we both have projects based around musical instruments that can be accessible to anyone, not just those who know how to play. There is a code behind both our projects that will project sound when interaction occurs.
 
 
 ### Related project 5 ###
@@ -54,7 +54,7 @@ This project is related to mine because we both have projects based around music
 
 ![Image](gardencitygame.jpg)
 
-This project is related to mine because the owners of the centre explain that it is a revitalise that customers willbe excited to see and be apart of. I see that in my project as well. While it still appears to be a rough prototype replication, it concept of it does "spruce" things up from a ordinary guitar as this is more of an electronic instrument. Even better, it's home made. 
+This project is related to mine because the owners of the centre explainds that it is "a revitalise" that customers will be excited to see and be apart of. I see that in my project as well. While it still appears to be a rough prototype replication, it concept of it does "spruce" things up from a ordinary guitar as this is more of an electronic instrument. Even better, it's home made. 
 
 ### Related project 6 ###
 (Atheletic Forest)
@@ -66,9 +66,6 @@ This project is related to mine because the owners of the centre explain that it
 This project is related to mine because both have properties implemented where once human contact is made with the project, a response is detected and therefore shown. Using a tone light-sensor code for my guitar replication enacts a response for a change of tone. The project "Athletic forest" responds with light when human contact is made, which I assume is done by in-depth imaging.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -103,6 +100,7 @@ There is more than meets the eye. In saying that, again, microinterations was so
  Are the sensors/detectors that we've worked with in class connected to microinteractions, since one of the things they are good at is turning features on or off? Just like a feature I planned to have in my project?
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
 Stated above, I feel once I understand how or if there is a connection between sensors and microinteractions I would then get closer to implementing more things to my guitar.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
@@ -186,7 +184,7 @@ This project is a electronic musical instrument in hopes to bring a close real l
 
 Overall the replication of the project was successful. Plenty room for improvement seeing as it was my first design project. One of the highlights was teaching myself new things (that may seem small) like wiring up crocodile heads with wires. However the most successful thing to come out of this is having the guitar show its function. 
 
-However, though the replication was successful, there are still some aspects that were hard to work around or figure out. For example coding, I found throughout this process, it took me a while to understand why things were put together the way they were. Or some things just didn't work through the microbit. ALthough these weren't any major problems that stopped the central goal of having it work and play sounds. It still would have been a rewarding feeling knowing i accomplised all of it. 
+However, though the replication was successful, there are still some aspects that were hard to work around or figure out. For example, coding, I found throughout this process, it took me a while to understand why things were put together the way they were. Or some things just didn't work through the microbit. ALthough these weren't any major problems that stopped the central goal of having it work and play sounds. It still would have been a rewarding feeling knowing i accomplised all of it. 
 
 One of my coding problems was the "on" and "off" switch, which didn't seem to work. I followed the steps provided, however as I am new to all of this, I may have coded incorrectly or placed wires in the wrong sections. 
 
