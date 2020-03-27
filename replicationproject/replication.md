@@ -61,6 +61,10 @@ This project is related to mine because the owners of the centre explain that it
 
 (https://borderless.teamlab.art/concepts/athletics-forest/
 
+![Image](atheleticforrest.jpeg)
+
+This project is related to mine because both have properties implemented where once human contact is made with the project, a response is detected and therefore shown. Using a tone light-sensor code for my guitar replication enacts a response for a change of tone. The project "Athletic forest" responds with light when human contact is made, which I assume is done by in-depth imaging.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
