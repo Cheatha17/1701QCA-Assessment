@@ -33,6 +33,7 @@ This project is related to mine because it brings something realistic to the pub
 (https://www.homecrux.com/drexels-interactive-projects-that-improves-upon-our-daily-environment/7713/)
 
 ![Image](interactive floor.jpg)
+
 This project is related to mine in a very minor way, Tucker's project was described to be 'The future od adaptive living spaces' mine is just an ordianry home made guitar. However both of projects have sensors implemented or coded to detect human interaction and therefore respond to it.
 
 
@@ -54,6 +55,11 @@ This project is related to mine because we both have projects based around music
 ![Image](gardencitygame.jpg)
 
 This project is related to mine because the owners of the centre explain that it is a revitalise that customers willbe excited to see and be apart of. I see that in my project as well. While it still appears to be a rough prototype replication, it concept of it does "spruce" things up from a ordinary guitar as this is more of an electronic instrument. Even better, it's home made. 
+
+### Related project 6 ###
+(Atheletic Forest)
+
+(https://borderless.teamlab.art/concepts/athletics-forest/
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
